@@ -3,4 +3,4 @@ GitHubTestRepo
 
 GitHubTestRepo
 
-This is a test edit.
+This is a test *edit*.
